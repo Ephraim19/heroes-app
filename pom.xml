@@ -76,7 +76,7 @@
                     <!--  Change this to YOUR application name!  -->
                     <appName>arcane-forest-40637</appName>
                     <processTypes>
-                        <web>java -jar ./target/arcane-forest-40637-1.0-jar-with-dependencies.jar</web>
+                        <web>java -jar ./target/arcane-forest-40637-1.0-SNAPSHOT-jar-with-dependencies.jar</web>
                     </processTypes>
                 </configuration>
             </plugin>
